@@ -1,7 +1,7 @@
 class Person
-  attr_accessor :glove_size
+  attr_accessor :name
 
-  def initialize(glove_size)
-      @glove_size = glove_size
+  def initialize(name)
+      @name = name
   end
 end
