@@ -3,5 +3,5 @@ class Person
 
   def initialize(glove_size)
       @glove_size = glove_size
-      end
+  end
 end
